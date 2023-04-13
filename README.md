@@ -30,6 +30,8 @@ Execute the output.
 ## Program:
 
 ``` Python
+Name : SRINIVAS.U 
+REG-NO : 212221230108
 # Import the packages
 import cv2
 import matplotlib.pyplot as plt
